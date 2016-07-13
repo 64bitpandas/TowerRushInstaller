@@ -1,0 +1,59 @@
+TowerRush License Agreement
+
+IMPORTANT - PLEASE READ THIS SOFTWARE LICENSE AGREEMENT CAREFULLY.
+
+This TowerRush Software License Agreement (“Agreement”) is a legal agreement between you (either an individual or an entity) and Fewdpew Games.  Permission to use TowerRush is conditional upon you agreeing to the terms set out below.  The software is offered to you on condition that these terms are agreed and accepted, and acceptance will bind you.  By clicking “I Agree” at the end of these terms and conditions, you will be deemed to have accepted them.  By purchasing, downloading, installing or using the Fewdpew Games software, you are also agreeing to be bound by all of the terms and conditions of this Agreement.  If you do not agree to all of the terms and conditions of the Agreement, then please click on “Cancel” and you will not be permitted to purchase, download, install or use the Fewdpew Games software.
+
+NOTE: This Build Of TowerRush Is In ALPHA. The Software Might Not Be Stable Or In A Usable Condition.
+
+1.	GRANT OF LICENSE.  This License Agreement permits you upon acceptance of the terms and conditions of this Agreement, to download, install and use one copy of the Fewdpew Games SOFTWARE program (“the SOFTWARE”) on a single computer.  In this Agreement, the SOFTWARE: 
+
+(1)	includes any images, “applets”, photographs, animations, video, audio, music and text incorporated into, or provided with, the SOFTWARE; and
+
+(2)	is in “use” on a computer when it is loaded into temporary memory (i.e. RAM) or installed into permanent memory (eg. hard disk, CD ROM, or other storage device) of that computer.
+
+2.	INTELLECTUAL PROPERTY RIGHTS.  The SOFTWARE: 
+
+(1)	is protected by copyright laws in the United States of America and, through international treaty provisions, in other countries including, but not limited to, Australia, Canada, the European Union, Japan, Hong Kong, Switzerland, Norway, and New Zealand; and
+
+(2)	is the intellectual property of either Fewdpew Games or third parties, which is owned or licensed by Fewdpew Games or the relevant third parties.  
+
+	Therefore, you must treat the SOFTWARE like any other copyright material. Except as expressly permitted in this Agreement or otherwise by a right conferred under the laws in the country where your computer is located that cannot be excluded or modified, YOU MUST NOT:
+
+(1)	copy, reproduce or re-distribute the SOFTWARE or any portion of the SOFTWARE; or
+
+(2)	modify, reverse engineer, decompile, disassemble, or otherwise reduce the SOFTWARE to human readable form or attempt to discover the source code of the SOFTWARE; 
+
+(3)	rent, lease or sell the SOFTWARE or any portion thereof;
+
+(4)	make the SOFTWARE available to others or create derivative works based on the SOFTWARE; or
+
+(5)	copy the user documentation accompanying the SOFTWARE, 
+
+and you must not authorise or assist anyone else to do so.
+
+3.	USER DOCUMENTATION.  You may print copies of any user documentation supplied with the SOFTWARE for your own personal reference.
+
+4.	The trade marks, logos, and service marks (“Marks”) displayed on or in the SOFTWARE are the property of Fewdpew Games or third parties.  You are not permitted to use the Marks without the prior consent of Fewdpew Games or such third parties which may own the Marks. 
+
+5.	You may terminate the license at any time by destroying the Software (including the related documentation) together with all copies or modifications in any form.  Fewdpew Games will have the right to terminate this license immediately if you fail to comply with any term or condition of this Agreement.  Upon any termination, including termination by you, you must destroy the Software (including the related documentation), together with all copies or modifications in any form.
+
+6.	WARRANTY DISCLAIMERS.  Except as provided by a warranty, guarantee, condition, right or remedy or term in law or implied by law in the country in which your computer is located and which by such law cannot be excluded, restricted or modified, Fewdpew Games does not and cannot warrant the performance or results you may obtain by using the SOFTWARE, and makes no warranties, conditions, representations including as to rights or remedies, terms or guarantees, express or implied, whether by statute, common law, custom, usage or otherwise, as to any other matters. 
+
+7.	LIABILITY LIMITATIONS.  Subject to clause 6, to the extent permitted by law in the country in which your computer is located, in no event will Fewdpew Games, or its directors, shareholders, officers, employees, or related companies be liable to you for any damages, claims, or costs whatsoever, including but not limited to negligence or for direct, indirect, consequential, special or incidental damages or any lost profits or lost savings, whether foreseeable or unforeseeable, arising out of or in connection with the Agreement or the use, results of use or inability to use the SOFTWARE or the loss of any data as a result of the use of the SOFTWARE, even if Fewdpew Games has been advised of the possibility of such loss, damages, claims or costs or for any claim by any third party.  To the extent permitted by law in the country in which your computer is located, any cumulative liability of Fewdpew Games under or in connection with the Agreement will be limited exclusively to the refund of the purchase price of the SOFTWARE.
+
+To the extent permitted by law in the country in which your computer is located, you shall indemnify and hold harmless Fewdpew Games, its directors, officers, employees and related companies from and against any and all liabilities, losses, damages, costs and legal fees, if any, incurred by, or asserted against Fewdpew Games, its directors, officers, employees and related organisations from an action, claim or suit relating to or arising from the possession, use or failure to use the SOFTWARE by you.  You agree to defend or settle at your own expense any such claim or suit which arises through your use of the SOFTWARE under the Agreement.
+
+8.	ENTIRE AGREEMENT.  This Agreement constitutes the entire understanding between the parties with respect to its subject matter.
+
+9.	ASSIGNMENT. You may not assign, delegate or transfer your rights and obligations under this Agreement without prior written approval from Fewdpew Games.
+
+10.	SEVERABILITY.  If any provision of this agreement is held by a court to be unlawful, invalid, unenforceable or in conflict with any rule of law, statute, ordinance or regulation, the validity and enforceability of the remaining provisions shall not be thereby affected.
+
+11.	JURISDICTION.  This Agreement will be governed by and construed in accordance with the laws in force in the State of California, in the United States of America.  The courts of the United States of America and the State of California will have exclusive jurisdiction over disputes concerning this Agreement or its subject matter.
+
+You hereby consent to this jurisdiction and venue.
+
+12.	PRIVACY POLICY.  You grant Fewdpew Games the right to store your contact details and other related information in order for Fewdpew Games to contact you from time to time to provide you with information concerning the SOFTWARE.  You acknowledge and accept that the SOFTWARE may periodically use your internet connection to communicate with Fewdpew Games’s servers over the internet including checking for updates and reporting configuration, diagnostic and error information.  Your contact details and other related information will not be used for any other purposes nor sold to any third party.
+
+Should you have any questions concerning this Agreement, or if you desire to contact Fewdpew Games for any other reason, please refer to the contact details provided on the website, https://fewdpew.me
