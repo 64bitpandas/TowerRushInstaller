@@ -11,9 +11,9 @@
 #define ResourceFolder "C:\Users\BenCu\Documents\TowerRushInstaller\Resources"
 
 ; Installer version naming: First 3 digits are the app version. Last digit is for installer revision (increment by 1 every time this script changes)
-#define InstallerVersion "1.2.1.5"
+#define InstallerVersion "1.2.1.6"
 #define MyAppVersion "1.2.1a"  
-
+                               
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application.
 ; Do not use the same AppId value in installers for other applications.
@@ -36,7 +36,7 @@ AllowNoIcons=yes
 CloseApplications=yes
 LicenseFile={#ResourceFolder}\license.txt
 OutputBaseFilename={#MyAppName} {#MyAppVersion} Setup
-SetupIconFile={#RResourceFolder}\Logo.ico
+SetupIconFile={#ResourceFolder}\Logo.ico
 UninstallDisplayIcon={app}\TowerRush.exe
 UninstallDisplayName={#MyAppName} {#MyAppVersion}
 Compression=lzma2/ultra
@@ -53,6 +53,7 @@ Name: "quicklaunchicon"; Description: "{cm:CreateQuickLaunchIcon}"; GroupDescrip
 [Files]
 Source: "{#ResourceFolder}\TowerRush.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: "{#ResourceFolder}\TowerRush_Data\*"; DestDir: "{app}\TowerRush_Data\"; Flags: ignoreversion createallsubdirs recursesubdirs
+Source: "{#ResourceFolder}\Levels\*"; DestDir: "{app}\TowerRush_Data\"; Flags: ignoreversion createallsubdirs recursesubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
@@ -71,7 +72,7 @@ Type: dirifempty; Name: "{app}\"
 function InitializeSetup(): Boolean;  
 
  begin
-  Result := MsgBox('This is an Alpha Build' + #13#10 + 'Some features might not work as intended' + #13#10 + 'Please report all bugs to support@fewdpew.me' + #13#10 + 'Thanks for being a valuable Beta Tester!' + #13$10 + 'Continue Installation?', mbConfirmation, MB_YESNO or MB_DEFBUTTON2) = IDOK;
+  Result := MsgBox('This is an Alpha Build' + #13#10 + 'Some features might not work as intended' + #13#10 + 'Please report all bugs to support@fewdpew.me' + #13#10 + 'Thanks for being a valuable Beta Tester!' + #13#10 + 'Continue Installation?', mbConfirmation, MB_YESNO or MB_DEFBUTTON2) = IDYES;
   if Result = False then
     MsgBox('Ok. Exiting Setup.', mbInformation, MB_OK);
 end;
