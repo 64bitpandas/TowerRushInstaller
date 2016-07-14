@@ -71,7 +71,7 @@ Type: dirifempty; Name: "{app}\"
 function InitializeSetup(): Boolean;  
 
  begin
-  Result := MsgBox('Alpha Build:' + #13#10 + 'Please report any bugs by emailing support@fewdpew.me. Thanks!', mbConfirmation, MB_OKCANCEL or MB_DEFBUTTON2) = IDOK;
+  Result := MsgBox('This is an Alpha Build' + #13#10 + 'Some features might not work as intended' + #13#10 + 'Please report all bugs to support@fewdpew.me' + #13#10 + 'Thanks for being a valuable Beta Tester!' + #13$10 + 'Continue Installation?', mbConfirmation, MB_YESNO or MB_DEFBUTTON2) = IDOK;
   if Result = False then
     MsgBox('Ok. Exiting Setup.', mbInformation, MB_OK);
 end;
