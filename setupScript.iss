@@ -11,8 +11,8 @@
 #define ResourceFolder "C:\Users\BenCu\Documents\TowerRushInstaller\Resources"
 
 ; Installer version naming: First 3 digits are the app version. Last digit is for installer revision (increment by 1 every time this script changes)
-#define InstallerVersion "1.2.1.6"
-#define MyAppVersion "1.2.1a"  
+#define InstallerVersion "1.3.0.1"
+#define MyAppVersion "1.3.0a"  
                                
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application.
