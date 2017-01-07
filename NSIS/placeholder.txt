@@ -1,0 +1,1 @@
+http://nsis.sourceforge.net/Convert_Inno_Setup_scripts_to_NSIS_scripts
